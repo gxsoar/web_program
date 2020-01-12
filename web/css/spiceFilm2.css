@@ -1,0 +1,117 @@
+body{
+    font-family: Microsoft Yahei, SimSun, Arial;
+}
+.head{
+    width: 100%;
+    background: #20232c;
+    height:70px;
+    position: relative;
+    z-index: 10;
+}
+.straitpage .head-bar{
+    width: 980px;
+}
+.head-bar{
+    margin: auto;
+}
+.straitpage .head-bar-logo{
+    width: 180px;
+}
+.head-bar-logo{
+    height: 70px;
+    float: left;
+    display: inline block;
+}
+.nav-bar-menu{
+    margin:0px;
+    padding: 0px;
+    float: left;
+}
+ul{
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.nav-bar-menu li {
+    float: left;
+    list-style-type: none;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+bar-menu li.home-page a {
+    padding-left: 23px;
+}
+bar-menu li a {
+    padding: 0 18px;
+}
+a.nav-bar-active {
+    /* background: #282c37; */
+    color: #FFF;
+}
+.nav-bar-menu li a:link, .nav-bar-menu li a:visited {
+    line-height: 70px;
+    display: block;
+    padding: 0px 24px;
+    color: #bdbdbd;
+}
+.straitpage .nav-bar-menu li a {
+    font-size: 16px;
+}
+a:link, a:visited, a:hover {
+    text-decoration: none;
+}
+a {
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+a:-webkit-any-link {
+    /* color: -webkit-link; */
+    cursor: pointer;
+    /* text-decoration: underline; */
+}
+
+element.style {
+}
+.straitpage .nav-bar-menu li.home-page a {
+    padding-left: 23px;
+}
+.straitpage .nav-bar-menu li a {
+    padding: 0 18px;
+}
+.nav-bar-menu li a.nav-bar-active {
+    /* background: #282c37; */
+    color: #FFF;
+}
+.nav-bar-menu li a:link, .nav-bar-menu li a:visited {
+    line-height: 70px;
+    display: block;
+    padding: 0px 24px;
+    color: #bdbdbd;
+}
+.straitpage .nav-bar-menu li a {
+    font-size: 16px;
+}
+a:link, a:visited, a:hover {
+    text-decoration: none;
+}
+a {
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+.nav-bar-menu li {
+    float: left;
+    list-style-type: none;
+}
+li {
+    text-align: -webkit-match-parent;
+}
+
+
+
+

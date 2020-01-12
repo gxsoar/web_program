@@ -1,0 +1,242 @@
+body,button,input,select,h3, h6 {font-family: Microsoft Yahei;}
+/* 热播电影模块 */
+.straitpage .layout-wrapper,
+.footer, .copy-right{
+    min-width: 1040px;
+}
+straitpage .layout-wrapper {
+    min-width: 980px;
+}
+.layout-wrapper{
+    overflow: hidden;
+    background-color: #ffffff;
+}
+.straitpage .layout{
+    width: 1040px;
+    margin: 0 auto;
+}
+.layout{
+    overflow: hidden;
+    padding-bottom: 50px;
+    width: 1040px;
+    margin: 0 auto;
+}
+
+.coloumn-title{
+    width: 140px;
+    /* height: 200px; */
+    margin:33px auto 25px;
+    font-size: 30px;
+    line-height: 2;
+    color: #000000;
+    text-align: center;
+
+}
+
+.frame {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+.hot-item{
+    width: 260px;
+    height: 315px;
+    overflow: hidden;
+    margin: 0;
+    background-color: white;
+}
+.frame-room{
+    float:left;
+}
+.hot-picWrapper{
+    position: relative;
+    width: 100%;
+    height: 245px;
+    cursor: pointer;
+}
+.hot-picWrapper img{
+    height: 100%;
+    width: 100%;
+}
+.picHover img{
+    transition: box-shadow 0.6s;   
+}
+img{
+    border:none;
+    vertical-align: top;
+}
+.hot-score{
+    display: block;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 0 12px 8px 0;
+    color: #ffffff;
+    text-shadow: 0 0 2px black;
+    font-size: 14px;
+}
+.hot-flag-free{
+    background-color: #ff8d06;
+}
+.hot-flag {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 22px;
+    padding: 0 5px;
+    color: #ffffff;
+    font-size: 12px;
+}
+.hot-description{
+    margin: 0;
+    text-align: center;
+}
+figcaption{
+    display: block;
+}
+.hot .frame-room+
+.frame-room{
+    margin-left: 20px;
+}
+.frame-room+
+.frame-room{
+    margin-left: 20px;
+}
+.hot-item{
+    width: 180px;
+    height: 315px;
+    overflow: hidden;
+    margin: 0;
+    background-color: white;
+}
+.frame-room{
+    float:left;
+}
+.hot-picWrapper{
+    position: relative;
+    width: 100%;
+    height: 245px;
+    cursor: pointer;
+}
+.hot-picWrapper img{
+    height: 100%;
+    width: 100%;
+}
+.picHover img{
+    transition: box-shadow 0.6s;   
+}
+img{
+    border:none;
+    vertical-align: top;
+}
+.hot-score{
+    display: block;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 0 12px 8px 0;
+    color: #ffffff;
+    text-shadow: 0 0 2px black;
+    font-size: 14px;
+}
+.hot-flag-free{
+    background-color: #ff8d06;
+}
+.hot-flag {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 22px;
+    padding: 0 5px;
+    color: #ffffff;
+    font-size: 12px;
+}
+.hot-description{
+    margin: 0;
+    text-align: center;
+}
+figcaption{
+    display: block;
+}
+.choose{
+    border: 1px solid sever;
+}
+.tab-content{
+    margin:5px;
+    text-align:center;
+}
+.buttonRadiusMoreDouble {
+    width: 356px;
+    margin: 40px auto 0;
+    padding: 0;
+    overflow: hidden;
+}
+.buttonRadiusMore-buttonDouble.buttonRadiusMore-buttonDoubleLeft {
+    margin-right: 40px;
+}
+a:link, a:visited, a:hover {
+    text-decoration: none;
+}
+
+.buttonRadiusMore-buttonDouble {
+    float: left;
+    display: inline-block;
+    width: 156px;
+    line-height: 35px;
+    font-size: 15px;
+    color: #818181;
+    text-align: center;
+    border: 1px solid #717171;
+    border-radius: 18px;
+    margin-right: -4px;
+    text-decoration: none;
+    outline: none;
+}
+a {
+    color: #818181;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+element.style {
+    background-color: #f5f5f5;
+}
+.straitpage .layout-wrapper, .footer, .copy-right {
+    min-width: 1040px;
+}
+.layout-wrapper:nth-child(even) {
+    background-color: #fff;
+}
+.straitpage .layout-wrapper {
+    min-width: 980px;
+}
+.straitpage .layout {
+    width: 980px;
+    margin: 0 auto;
+}
+.frLink {
+    font: 16px/1 "Microsoft YaHei";
+    padding-bottom: 30px;
+}
+.layout {
+    overflow: hidden;
+    padding-bottom: 50px;
+    width: 980px;
+    margin: 0 auto;
+}
+section {
+    display: block;
+}
+.coloumn-comment{
+    width: 140px;
+    /* height: 200px; */
+    margin:33px auto 25px;
+    font-size: 30px;
+    line-height: 2;
+    color: #000000;
+    text-align: center;
+}S
